@@ -1,0 +1,124 @@
+@import
+url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+
+body{
+margin:0;
+color: ;}
+
+.nav {
+height:50px;
+background:green;
+font-size: 20px;
+}
+
+.nav div{
+display: inline-block;
+position: absolute;
+let:0;
+padding: 15px;
+font-size: 20px;
+
+color: white;
+}
+.nav ul{
+position: absolute;
+right: 5px;
+
+}
+.nav ul li{
+display: inline-block;
+
+}
+.home{
+background-size: cover;
+height: 100vh;
+color:black;
+}
+
+.text-container{
+text-align:center;
+display: flex;
+align-items:center;
+justify-content:center;
+height: 90vh;
+}
+
+.text-container h1{
+  font-size: 57px;
+}
+.text-container h2{
+  font-size: 27px;
+}
+
+.about-page .nav{
+height:50px;
+background:slateblue;
+}
+
+.about{
+text-align:center;
+
+align-items:center;
+justify-content:center;
+height: 90vh;
+color: white;
+}
+.about p{
+font-family:'Roboto',sans-serif;
+}
+.service h1{
+text-align:center;}
+
+.services .service ul{
+
+width:100%;
+height:auto;
+justify-content:space-around;;
+margin-left:auto;
+margin-right:auto;
+
+}
+.services .service ul li{
+list-style:none;
+display:inline-block;
+width:350px;
+margin:30px;
+
+
+}
+.services .service ul li p{
+text-align:justify;
+
+}
+
+.contacts{
+text-align: center;
+}
+.address{
+font-family: Bauhaus 93;
+}
+
+.contact .nav{
+height:50px;
+background:tomato;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
